@@ -1,0 +1,15 @@
+# Python helper scripts and caches
+scripts/
+__pycache__/
+*.pyc
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
